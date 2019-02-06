@@ -2,7 +2,7 @@ package com.glx.app;
 
 
 
-import java.util.List;
+import java.util.*;
 
 import javax.persistence.CascadeType;
 import javax.persistence.ElementCollection;
